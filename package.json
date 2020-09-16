@@ -16,6 +16,6 @@
     "ethereumjs-wallet": "^0.6.5",
     "js-sha3": "^0.8.0",
     "reload": "^2.3.1",
-    "watchify": "^3.11.0"
+    "watchify": "^3.11.1"
   }
 }
